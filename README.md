@@ -1,2 +1,2 @@
 # Advanced-Learning-Python-Roadmap
-Currently I'm improving my skills in python This road_map helpfull for you !
+I'm currently improving my Python skills and sharing my learning journey here. Hope this roadmap helps you too!
